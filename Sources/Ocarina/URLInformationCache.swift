@@ -7,6 +7,7 @@
 //
 
 import Foundation
+import Kanna
 
 /// The cache used by a OrcarinaManager to hold a cache of URLInformation
 public class URLInformationCache {

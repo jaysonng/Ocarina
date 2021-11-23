@@ -7,6 +7,7 @@
 //
 
 import Foundation
+import Kanna
 
 /// The ocarine object that is a property on URL for easy access
 public final class Ocarina {
